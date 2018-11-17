@@ -5,3 +5,5 @@ V-8 engine is an open source javascript engine that written in C++ that takes ja
 Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient.
 
 Node.Js package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
+
+JSON = Javascript object  notation and its way to represent javascript arrays and objects using a string.
